@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358887045650",
+    "firebase_url": "https://fir-signuplogindb.firebaseio.com",
+    "project_id": "fir-signuplogindb",
+    "storage_bucket": "fir-signuplogindb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358887045650:android:532b91d37eaa6c1f87b6cb",
+        "android_client_info": {
+          "package_name": "jihanislam007.firebasesignuplogindb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358887045650-0j5j8tr8di7h5fqono99md8453tpurhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jihanislam007.firebasesignuplogindb",
+            "certificate_hash": "51bd8c58719161bc4ab0b5acab8c641c3232b3e4"
+          }
+        },
+        {
+          "client_id": "358887045650-v4pd94kceoqa56t5uuo6j5lo2dt9bv43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYEdZ9yuIwts4js3hEOT8vIL6Fp_PulFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358887045650-v4pd94kceoqa56t5uuo6j5lo2dt9bv43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
